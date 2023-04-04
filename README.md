@@ -5,7 +5,7 @@ This is a Python implementation of the classic game of Tic-Tac-Toe, where you ca
 
 * Python 3.x
 
-* Random
+* [Random](https://docs.python.org/3/library/random.html)
 
 ## Installation
 
